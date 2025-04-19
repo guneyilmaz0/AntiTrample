@@ -1,0 +1,13 @@
+# Permission node that allows players to bypass crop trampling prevention
+bypass_permission: "antitrample.bypass"
+
+# Whether to prevent mobs from trampling crops
+prevent_mobs: true
+
+# Message displayed to players without permission when they attempt to trample crops
+# If you want to disable the message, set it to an empty string
+message: "§cYou dont have permission to trample crops!"
+
+# Whether to play a sound when crop trampling is prevented
+# Sound: note.bass
+sound: true
